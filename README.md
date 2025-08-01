@@ -11,5 +11,5 @@ The skills this project demonstrates are git and command line basics, and HTML f
 - Writing  commit messages (including those with bodies)
 - Using git terminal shortcuts in Linux and VScode 
 
-Live project: prawnrolls.github.io/odin-recipes
+Live project: <a href="https://prawnrolls.github.io/odin-recipes" target="_blank" rel="noopener noreferrer">
 
